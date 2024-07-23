@@ -16,7 +16,7 @@ Explanation: The LCA of nodes 5 and 4 is 5, since a node can be a descendant of 
 ### Example 3:
 Input: root = [1,2], p = 1, q = 2
 Output: 1
-
+### Code(Java)
 ``` java
 /**
  * Definition for a binary tree node.
